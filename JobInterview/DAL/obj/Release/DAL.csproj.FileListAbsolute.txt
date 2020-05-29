@@ -1,0 +1,14 @@
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\DAL.dll.config
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\DAL.dll
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\DAL.pdb
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\EntityFramework.dll
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\EntityFramework.xml
+C:\Users\Leggga\source\repos\JobInterview\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.Migrations.InitialCreate.resources
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.csproj.GenerateResource.cache
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.dll
+C:\Users\Leggga\source\repos\JobInterview\DAL\obj\Release\DAL.pdb
